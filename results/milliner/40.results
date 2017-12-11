@@ -1,0 +1,83 @@
+16:13:35.753 [error] Process #PID<0.542.0> raised an exception
+** (CaseClauseError) no case clause matching: {:ok, %HTTPoison.Response{body: "<html>\r\n<head><title>504 Gateway Time-out</title></head>\r\n<body bgcolor=\"white\">\r\n<center><h1>504 Gateway Time-out</h1></center>\r\n</body>\r\n</html>\r\n", headers: [{"Server", "awselb/2.0"}, {"Date", "Tue, 05 Dec 2017 08:13:35 GMT"}, {"Content-Type", "text/html"}, {"Content-Length", "148"}, {"Connection", "keep-alive"}], request_url: "https://noggin.hubat.net/api/manage/hat/create/namasteb22.noggin.hubat.net", status_code: 504}}
+    (console) lib/milliner_console.ex:69: MillinerConsole.create/1
+    (console) lib/milliner_console.ex:15: MillinerConsole.loadtest_impl/5
+ 
+16:13:35.754 [error] Process #PID<0.533.0> raised an exception
+** (CaseClauseError) no case clause matching: {:ok, %HTTPoison.Response{body: "<html>\r\n<head><title>504 Gateway Time-out</title></head>\r\n<body bgcolor=\"white\">\r\n<center><h1>504 Gateway Time-out</h1></center>\r\n</body>\r\n</html>\r\n", headers: [{"Server", "awselb/2.0"}, {"Date", "Tue, 05 Dec 2017 08:13:35 GMT"}, {"Content-Type", "text/html"}, {"Content-Length", "148"}, {"Connection", "keep-alive"}], request_url: "https://noggin.hubat.net/api/manage/hat/create/namasteb13.noggin.hubat.net", status_code: 504}}
+    (console) lib/milliner_console.ex:69: MillinerConsole.create/1
+    (console) lib/milliner_console.ex:15: MillinerConsole.loadtest_impl/5
+ 
+16:13:35.755 [error] Process #PID<0.558.0> raised an exception
+** (CaseClauseError) no case clause matching: {:ok, %HTTPoison.Response{body: "<html>\r\n<head><title>504 Gateway Time-out</title></head>\r\n<body bgcolor=\"white\">\r\n<center><h1>504 Gateway Time-out</h1></center>\r\n</body>\r\n</html>\r\n", headers: [{"Server", "awselb/2.0"}, {"Date", "Tue, 05 Dec 2017 08:13:35 GMT"}, {"Content-Type", "text/html"}, {"Content-Length", "148"}, {"Connection", "keep-alive"}], request_url: "https://noggin.hubat.net/api/manage/hat/create/namasteb38.noggin.hubat.net", status_code: 504}}
+    (console) lib/milliner_console.ex:69: MillinerConsole.create/1
+    (console) lib/milliner_console.ex:15: MillinerConsole.loadtest_impl/5
+ 
+16:13:35.756 [error] Process #PID<0.528.0> raised an exception
+** (CaseClauseError) no case clause matching: {:ok, %HTTPoison.Response{body: "<html>\r\n<head><title>504 Gateway Time-out</title></head>\r\n<body bgcolor=\"white\">\r\n<center><h1>504 Gateway Time-out</h1></center>\r\n</body>\r\n</html>\r\n", headers: [{"Server", "awselb/2.0"}, {"Date", "Tue, 05 Dec 2017 08:13:35 GMT"}, {"Content-Type", "text/html"}, {"Content-Length", "148"}, {"Connection", "keep-alive"}], request_url: "https://noggin.hubat.net/api/manage/hat/create/namasteb8.noggin.hubat.net", status_code: 504}}
+    (console) lib/milliner_console.ex:69: MillinerConsole.create/1
+    (console) lib/milliner_console.ex:15: MillinerConsole.loadtest_impl/5
+ 
+16:13:36.232 [error] Process #PID<0.554.0> raised an exception
+** (CaseClauseError) no case clause matching: {:ok, %HTTPoison.Response{body: "<html>\r\n<head><title>504 Gateway Time-out</title></head>\r\n<body bgcolor=\"white\">\r\n<center><h1>504 Gateway Time-out</h1></center>\r\n</body>\r\n</html>\r\n", headers: [{"Server", "awselb/2.0"}, {"Date", "Tue, 05 Dec 2017 08:13:36 GMT"}, {"Content-Type", "text/html"}, {"Content-Length", "148"}, {"Connection", "keep-alive"}], request_url: "https://noggin.hubat.net/api/manage/hat/create/namasteb34.noggin.hubat.net", status_code: 504}}
+    (console) lib/milliner_console.ex:69: MillinerConsole.create/1
+    (console) lib/milliner_console.ex:15: MillinerConsole.loadtest_impl/5
+"{\"total\":63,\"status\":\"DONE\",\"signup\":10,\"hat\":\"namasteb2\",\"create\":53}"
+"{\"total\":63,\"status\":\"DONE\",\"signup\":21,\"hat\":\"namasteb29\",\"create\":42}"
+"{\"total\":63,\"status\":\"DONE\",\"signup\":11,\"hat\":\"namasteb21\",\"create\":52}"
+iex(35)> 
+16:13:37.358 [error] Process #PID<0.521.0> raised an exception
+** (CaseClauseError) no case clause matching: {:ok, %HTTPoison.Response{body: "<html>\r\n<head><title>504 Gateway Time-out</title></head>\r\n<body bgcolor=\"white\">\r\n<center><h1>504 Gateway Time-out</h1></center>\r\n</body>\r\n</html>\r\n", headers: [{"Server", "awselb/2.0"}, {"Date", "Tue, 05 Dec 2017 08:13:37 GMT"}, {"Content-Type", "text/html"}, {"Content-Length", "148"}, {"Connection", "keep-alive"}], request_url: "https://noggin.hubat.net/api/manage/hat/create/namasteb1.noggin.hubat.net", status_code: 504}}
+    (console) lib/milliner_console.ex:69: MillinerConsole.create/1
+    (console) lib/milliner_console.ex:15: MillinerConsole.loadtest_impl/5
+ 
+16:13:40.122 [error] Process #PID<0.540.0> raised an exception
+** (CaseClauseError) no case clause matching: {:ok, %HTTPoison.Response{body: "<html>\r\n<head><title>504 Gateway Time-out</title></head>\r\n<body bgcolor=\"white\">\r\n<center><h1>504 Gateway Time-out</h1></center>\r\n</body>\r\n</html>\r\n", headers: [{"Server", "awselb/2.0"}, {"Date", "Tue, 05 Dec 2017 08:13:39 GMT"}, {"Content-Type", "text/html"}, {"Content-Length", "148"}, {"Connection", "keep-alive"}], request_url: "https://noggin.hubat.net/api/manage/hat/create/namasteb20.noggin.hubat.net", status_code: 504}}
+    (console) lib/milliner_console.ex:69: MillinerConsole.create/1
+    (console) lib/milliner_console.ex:15: MillinerConsole.loadtest_impl/5
+ 
+16:13:40.123 [error] Process #PID<0.557.0> raised an exception
+** (CaseClauseError) no case clause matching: {:ok, %HTTPoison.Response{body: "<html>\r\n<head><title>504 Gateway Time-out</title></head>\r\n<body bgcolor=\"white\">\r\n<center><h1>504 Gateway Time-out</h1></center>\r\n</body>\r\n</html>\r\n", headers: [{"Server", "awselb/2.0"}, {"Date", "Tue, 05 Dec 2017 08:13:39 GMT"}, {"Content-Type", "text/html"}, {"Content-Length", "148"}, {"Connection", "keep-alive"}], request_url: "https://noggin.hubat.net/api/manage/hat/create/namasteb37.noggin.hubat.net", status_code: 504}}
+    (console) lib/milliner_console.ex:69: MillinerConsole.create/1
+    (console) lib/milliner_console.ex:15: MillinerConsole.loadtest_impl/5
+ 
+16:13:40.736 [error] Process #PID<0.547.0> raised an exception
+** (CaseClauseError) no case clause matching: {:ok, %HTTPoison.Response{body: "<html>\r\n<head><title>504 Gateway Time-out</title></head>\r\n<body bgcolor=\"white\">\r\n<center><h1>504 Gateway Time-out</h1></center>\r\n</body>\r\n</html>\r\n", headers: [{"Server", "awselb/2.0"}, {"Date", "Tue, 05 Dec 2017 08:13:40 GMT"}, {"Content-Type", "text/html"}, {"Content-Length", "148"}, {"Connection", "keep-alive"}], request_url: "https://noggin.hubat.net/api/manage/hat/create/namasteb27.noggin.hubat.net", status_code: 504}}
+    (console) lib/milliner_console.ex:69: MillinerConsole.create/1
+    (console) lib/milliner_console.ex:15: MillinerConsole.loadtest_impl/5
+ 
+16:13:40.737 [error] Process #PID<0.535.0> raised an exception
+** (CaseClauseError) no case clause matching: {:ok, %HTTPoison.Response{body: "<html>\r\n<head><title>504 Gateway Time-out</title></head>\r\n<body bgcolor=\"white\">\r\n<center><h1>504 Gateway Time-out</h1></center>\r\n</body>\r\n</html>\r\n", headers: [{"Server", "awselb/2.0"}, {"Date", "Tue, 05 Dec 2017 08:13:40 GMT"}, {"Content-Type", "text/html"}, {"Content-Length", "148"}, {"Connection", "keep-alive"}], request_url: "https://noggin.hubat.net/api/manage/hat/create/namasteb15.noggin.hubat.net", status_code: 504}}
+    (console) lib/milliner_console.ex:69: MillinerConsole.create/1
+    (console) lib/milliner_console.ex:15: MillinerConsole.loadtest_impl/5
+ 
+16:13:41.966 [error] Process #PID<0.560.0> raised an exception
+** (CaseClauseError) no case clause matching: {:ok, %HTTPoison.Response{body: "<html>\r\n<head><title>504 Gateway Time-out</title></head>\r\n<body bgcolor=\"white\">\r\n<center><h1>504 Gateway Time-out</h1></center>\r\n</body>\r\n</html>\r\n", headers: [{"Server", "awselb/2.0"}, {"Date", "Tue, 05 Dec 2017 08:13:41 GMT"}, {"Content-Type", "text/html"}, {"Content-Length", "148"}, {"Connection", "keep-alive"}], request_url: "https://noggin.hubat.net/api/manage/hat/create/namasteb40.noggin.hubat.net", status_code: 504}}
+    (console) lib/milliner_console.ex:69: MillinerConsole.create/1
+    (console) lib/milliner_console.ex:15: MillinerConsole.loadtest_impl/5
+ 
+16:13:43.099 [error] Process #PID<0.529.0> raised an exception
+** (CaseClauseError) no case clause matching: {:ok, %HTTPoison.Response{body: "<html>\r\n<head><title>504 Gateway Time-out</title></head>\r\n<body bgcolor=\"white\">\r\n<center><h1>504 Gateway Time-out</h1></center>\r\n</body>\r\n</html>\r\n", headers: [{"Server", "awselb/2.0"}, {"Date", "Tue, 05 Dec 2017 08:13:43 GMT"}, {"Content-Type", "text/html"}, {"Content-Length", "148"}, {"Connection", "keep-alive"}], request_url: "https://noggin.hubat.net/api/manage/hat/create/namasteb9.noggin.hubat.net", status_code: 504}}
+    (console) lib/milliner_console.ex:69: MillinerConsole.create/1
+    (console) lib/milliner_console.ex:15: MillinerConsole.loadtest_impl/5
+ 
+16:13:44.428 [error] Process #PID<0.524.0> raised an exception
+** (CaseClauseError) no case clause matching: {:ok, %HTTPoison.Response{body: "<html>\r\n<head><title>504 Gateway Time-out</title></head>\r\n<body bgcolor=\"white\">\r\n<center><h1>504 Gateway Time-out</h1></center>\r\n</body>\r\n</html>\r\n", headers: [{"Server", "awselb/2.0"}, {"Date", "Tue, 05 Dec 2017 08:13:44 GMT"}, {"Content-Type", "text/html"}, {"Content-Length", "148"}, {"Connection", "keep-alive"}], request_url: "https://noggin.hubat.net/api/manage/hat/create/namasteb4.noggin.hubat.net", status_code: 504}}
+    (console) lib/milliner_console.ex:69: MillinerConsole.create/1
+    (console) lib/milliner_console.ex:15: MillinerConsole.loadtest_impl/5
+ 
+16:13:48.109 [error] Process #PID<0.538.0> raised an exception
+** (CaseClauseError) no case clause matching: {:ok, %HTTPoison.Response{body: "<html>\r\n<head><title>504 Gateway Time-out</title></head>\r\n<body bgcolor=\"white\">\r\n<center><h1>504 Gateway Time-out</h1></center>\r\n</body>\r\n</html>\r\n", headers: [{"Server", "awselb/2.0"}, {"Date", "Tue, 05 Dec 2017 08:13:47 GMT"}, {"Content-Type", "text/html"}, {"Content-Length", "148"}, {"Connection", "keep-alive"}], request_url: "https://noggin.hubat.net/api/manage/hat/create/namasteb18.noggin.hubat.net", status_code: 504}}
+    (console) lib/milliner_console.ex:69: MillinerConsole.create/1
+    (console) lib/milliner_console.ex:15: MillinerConsole.loadtest_impl/5
+ 
+16:13:49.951 [error] Process #PID<0.531.0> raised an exception
+** (CaseClauseError) no case clause matching: {:ok, %HTTPoison.Response{body: "<html>\r\n<head><title>504 Gateway Time-out</title></head>\r\n<body bgcolor=\"white\">\r\n<center><h1>504 Gateway Time-out</h1></center>\r\n</body>\r\n</html>\r\n", headers: [{"Server", "awselb/2.0"}, {"Date", "Tue, 05 Dec 2017 08:13:49 GMT"}, {"Content-Type", "text/html"}, {"Content-Length", "148"}, {"Connection", "keep-alive"}], request_url: "https://noggin.hubat.net/api/manage/hat/create/namasteb11.noggin.hubat.net", status_code: 504}}
+    (console) lib/milliner_console.ex:69: MillinerConsole.create/1
+    (console) lib/milliner_console.ex:15: MillinerConsole.loadtest_impl/5
+ 
+16:13:51.800 [error] Process #PID<0.559.0> raised an exception
+** (CaseClauseError) no case clause matching: {:ok, %HTTPoison.Response{body: "<html>\r\n<head><title>504 Gateway Time-out</title></head>\r\n<body bgcolor=\"white\">\r\n<center><h1>504 Gateway Time-out</h1></center>\r\n</body>\r\n</html>\r\n", headers: [{"Server", "awselb/2.0"}, {"Date", "Tue, 05 Dec 2017 08:13:51 GMT"}, {"Content-Type", "text/html"}, {"Content-Length", "148"}, {"Connection", "keep-alive"}], request_url: "https://noggin.hubat.net/api/manage/hat/create/namasteb39.noggin.hubat.net", status_code: 504}}
+    (console) lib/milliner_console.ex:69: MillinerConsole.create/1
+    (console) lib/milliner_console.ex:15: MillinerConsole.loadtest_impl/5
+"{\"total\":80,\"status\":\"DONE\",\"signup\":22,\"hat\":\"namasteb31\",\"create\":58}"

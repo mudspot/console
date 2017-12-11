@@ -30,7 +30,7 @@ defmodule Console.Mixfile do
   defp deps do
     [{:poison, "~> 3.1"},
      {:json_web_token, "~> 0.2.10"},
-     {:httpoison, "~> 0.11.2"},
+     {:httpoison, "~> 0.13.0"},
      {:secure_random, "~> 0.5"},
      {:sweet_xml, "~> 0.6.5"}]
   end

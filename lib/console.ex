@@ -37,7 +37,7 @@ defmodule Console do
     case raw_cut do
       nil -> false
       _ ->
-        second_cut = raw_cut
+        raw_cut
         |> String.split("Open", parts: 2, trim: true)
         |> Enum.at(0)
         |> parseQuote

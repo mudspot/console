@@ -18,7 +18,7 @@ defmodule DailyCompoundConsole do
         n_principal = principal + check_accrue
         %{principal: n_principal, accrue: 0}
       end
-      total = profit + principal
+      # total = profit + principal
       IO.puts "#{ counter + 1}  #{format(principal*1.0)} #{format(profit)} #{format(profit*30)} #{format(profit*365)} #{format(new_accrue*1.0)}"
       
       daily_compound(new_principal, interest, days, accrue_limit, new_accrue, counter + 1)
